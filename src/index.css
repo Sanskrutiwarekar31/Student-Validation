@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+#root {
+  max-width: none;
+  text-align: left;
+}
+
+body {
+  border: none;
+  outline: none;
+}
+
+form {
+  border-left: none;
+  border-right: none;
+}
